@@ -1,0 +1,23 @@
+
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+
+.urfi{
+     min-width: 100%;
+     min-height: auto;
+}
+
+.blogText{
+     min-width: 100%;
+     min-height: auto;
+     font-size: 20px;
+     padding: 20px;
+     /* display: flex;
+     justify-content: center;
+     align-items: center; */
+}
